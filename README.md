@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lily</h1>
-<h3 align="center">A passionate Data Scientist from the US</h3>
+
 
 - 🔭 I’m currently working on [predicting capsaicin content in chile peppers](https://github.com/lilynorthcutt/licorAnalysis)
 
