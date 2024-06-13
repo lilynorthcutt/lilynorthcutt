@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lily</h1>
 
 
-- 🔭 I’m currently working on [predicting capsaicin content in chile peppers](https://github.com/lilynorthcutt/licorAnalysis)
+- 🔭 I’m currently working on [supporting speed breeding efforts through data analysis](https://github.com/lilynorthcutt/speedBreeding)
 
 - 🌱 I’m currently learning **GeoPython**
 
 - 📫 How to reach me **northcuttlilya@gmail.com**
 
-- ⚡ Fun fact **I love to bake!**
+- ⚡ Fun fact **I love my cat, baking, and gardening**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
