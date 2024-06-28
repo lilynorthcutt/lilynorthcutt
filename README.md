@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [supporting speed breeding efforts through data analysis](https://github.com/lilynorthcutt/speedBreeding)
 
-- 🌱 I’m currently learning **GeoPython**
+- 🌱 I’m currently learning **GeoPython** and **echarts4r**
 
 - 📫 How to reach me **northcuttlilya@gmail.com**
 
