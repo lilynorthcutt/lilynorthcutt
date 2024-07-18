@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lily</h1>
 
 
-- 🔭 I’m currently working on [supporting speed breeding efforts through data analysis](https://github.com/lilynorthcutt/speedBreeding)
+- 🔭 I’m currently working on [predicting geologic ages in the Sierra Nevadas](https://github.com/lilynorthcutt/sierraNevadaAge)
 
 - 🌱 I’m currently learning **GeoPython** and **echarts4r**
 
